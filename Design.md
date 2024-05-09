@@ -6,6 +6,6 @@
 
 다만 유튜브가 **무엇을 디자인 하고싶은지 못 알아낸게 슬프다**
 
-![a](https://drive.google.com/file/d/1Rb09gCvlsEfOE-mKLqM8r10b-EODAI3s/view?pli=1)
+![a](https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYRyTHSH5iqnso09KHiTs8D2OVlgDbc4-xyE0BUjOGLawxmUj8Fs_w1B_ZKd4n4z-3hBfGq61VDyrIncq0ltNu3gHilmijvVMI=w1920-h912-rw-v1)
 
-그리고 캡처할때 채도가 낮게 나온 것이 아쉬웠다.
+**그리고 캡처할때 채도가 낮게 나온 것이 아쉬웠다.**
