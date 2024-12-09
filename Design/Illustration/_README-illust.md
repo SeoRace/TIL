@@ -1,8 +1,8 @@
 # Welcome!🖐️Please select your language!
-### [[한국어]](#일러스트레이션-TIL에-오신것을-환영합니다!) [[English]](#Welcome-to-the-Illustration-TIL!) [[日本語]](#イラストTILへようこそ！)
+### [[한국어]](#kr) [[English]](#en) [[日本語]](#jp)
 
 
-## 일러스트레이션 TIL에 오신것을 환영합니다!
+## 일러스트레이션 TIL에 오신것을 환영합니다! <a id="kr"></a>
 - 제 주전공인 일러스트에 관련된 학습이나 결과물들이 정리되어 있습니다!
 - 모든 파일이 년도-월-일.md 식으로 정리되어 있습니다.
 - 커밋 메시지에 세부 주제를 작성하였지만, 메시지가 덮어쓰여질 경우를 대비해서 본 파일에 목록으로 정리되어 있습니다.
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-## Welcome to the Illustration TIL!
+## Welcome to the Illustration TIL! <a id="en"></a>
 - This is a collection of my studies and results related to my main field of illustration!
 - All files are organized in the format YYYY-MM-DD.md.
 - Although detailed topics are written in the commit messages, I have also organized them in this file in case the messages get overwritten.
@@ -58,7 +58,7 @@
 <br>
 <br>
 
-## イラストTILへようこそ！
+## イラストTILへようこそ！ <a id="jp"></a>
 - こちらは私の専攻であるイラストに関する学習や成果物がまとめられています！
 - すべてのファイルは「YYYY-MM-DD.md」の形式で整理されています。
 - コミットメッセージに詳細なトピックを書いていますが、メッセージが上書きされる場合に備えて、このファイルにリストとして整理しています。
