@@ -28,6 +28,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Welcome to the Illustration TIL! <a id="en"></a>
 - This is a collection of my studies and results related to my main field of illustration!
@@ -52,6 +56,10 @@
 - **24-10-30.png**
     - Facial Proportions Practice
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
